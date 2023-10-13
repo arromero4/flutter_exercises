@@ -2,10 +2,12 @@ import 'package:english_words/english_words.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+//main app
 void main() {
   runApp(MyApp());
 }
 
+//we are going to improve this app
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
