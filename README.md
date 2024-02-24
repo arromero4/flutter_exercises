@@ -1,4 +1,4 @@
-#Repository for Flutter Projects
+# Repository for Flutter Projects
 ## I'm building these projects while I'm learning and reading Flutter Docs
 
 - ✅ horizons_app
