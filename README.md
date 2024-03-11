@@ -8,5 +8,7 @@
 - ✅ signin_example
 - ✅ layout_learning
   - [x] Learning to build a layout and understanding Common layout widgets, Standard widgets and Material widgets.
+- ✅ 'List with spaced items'
+- ✅ ListView.builder
 
 - [x] Preparación para entrevista de Flutter.
