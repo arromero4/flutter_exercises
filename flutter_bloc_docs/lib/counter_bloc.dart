@@ -29,4 +29,10 @@ class CounterBloc extends Bloc<CounterEvent, int> {
     super.onTransition(transition);
     print(transition);
   }
+
+  @override
+  void onError(Object error, StackTrace stackTrace) {
+    print('$error, $stackTrace');
+    super.onError(error, stackTrace);
+  }
 }
